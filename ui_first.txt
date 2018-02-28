@@ -1,0 +1,5 @@
+Input with time zone value, arrows on top and bottom to switch timezone and circle-like look to select time zone as a pop up
+Circle with time zone values around currently selected one.
+Arrows allows to switch time zones one by one.
+Circle allows to select particular time zone.
+Input may show only current time zone, but once clicked it shows arrows and circle.
